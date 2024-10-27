@@ -1,4 +1,4 @@
-# "tkey-gen" from wii-scripts by NinjaCheetah
+# "tkey-gen.py" from wii-scripts by NinjaCheetah
 # https://github.com/NinjaCheetah/wii-scripts
 # Roughly converted from PHP so probably doesn't make the most sense everywhere.
 
