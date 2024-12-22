@@ -2,7 +2,6 @@
 # https://github.com/NinjaCheetah/wii-scripts
 
 import os
-
 import requests
 
 
